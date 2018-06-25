@@ -1,3 +1,11 @@
+6.1.0 / 2018-06-26
+==================
+- [new] Support for eslint v5, #451
+- [new] aria-query updated to latest version
+- [new] eslint-config-airbnb-base updated to the latest version
+- [fix] heading-has-content updated to work with custom components, #431
+- [fix] aria-errormessage prop is now a valid ARIA property, #424
+
 6.0.2 / 2017-06-28
 ==================
 - [fix] Prefix directories in `.npmignore` with `/` so it only matches the top-level directory
